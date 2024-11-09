@@ -1,5 +1,6 @@
 ##  👁👄👁
-- 🌱 I’m currently learning Devops and Clouds (Specifically Azure infra)
+- 🌱 I’m currently learning Devops and Clouds (Specifically Azure infra) on Roadmap
+- ⚡ Constantly working on automating tasks
 
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/tall/66f993bac45e253cb055d589?variant=dark" alt="roadmap.sh"/>
